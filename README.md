@@ -319,11 +319,11 @@ I'm currently using **LeetCode** and algorithm studies as part of this process.
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alvarodnzdev/alvarodnzdev/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/alvarodnzdev/alvarodnzdev/gh-pages/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
