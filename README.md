@@ -319,7 +319,7 @@ I'm currently using **LeetCode** and algorithm studies as part of this process.
 
 ---
 
-# 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <div align="center">
 
@@ -334,7 +334,7 @@ I'm currently using **LeetCode** and algorithm studies as part of this process.
 - [x] Start my Software Engineer Journey
 - [x] Begin studying Computer Science fundamentals
 - [ ] Complete CS50
-- [ ] Strengthen Data Structures & Algorithms
+- [x] Strengthen Data Structures & Algorithms
 - [ ] Solve more LeetCode problems
 - [ ] Build more projects with Python
 - [ ] Improve Java skills
@@ -368,7 +368,7 @@ My goal is to **keep learning, keep building, and keep improving**.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/alvarodg">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
