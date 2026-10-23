@@ -4,10 +4,18 @@
 
 I build practical projects in software development, AI, and automation. Currently strengthening my foundations in algorithms and data structures, and exploring game development with C#.
 
-## Languages & Tools
+## Tech Stack
+
+**Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,python,java,cpp,mysql,git,docker" alt="C#, Python, Java, C++, MySQL, Git, and Docker" />
+  <img src="https://skillicons.dev/icons?i=cs,python,java,c,js" alt="C#, Python, Java, C, and JavaScript" />
+</p>
+
+**Backend & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,mysql,git,docker,linux" alt=".NET, FastAPI, MySQL, Git, Docker, and Linux" />
 </p>
 
 ## Featured Projects
@@ -23,3 +31,4 @@ I build practical projects in software development, AI, and automation. Currentl
 - C# and game development
 - Algorithms and data structures
 - Computer Science through CS50
+- Linux fundamentals — Red Hat course (in progress)
