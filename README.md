@@ -2,7 +2,7 @@
 
 **Computer Science student · AI Ambassador at IBM · Aspiring Software Engineer**
 
-I build practical projects in software development, AI, and automation. Currently strengthening my foundations in algorithms and data structures, and exploring game development with C#.
+I study Computer Science at **FAM** and work at **IBM**, building practical projects in software development, AI, and automation. I also develop games while strengthening my foundations in algorithms and data structures.
 
 ## Tech Stack
 
@@ -22,13 +22,20 @@ I build practical projects in software development, AI, and automation. Currentl
 
 | Project | Description | Technologies |
 | --- | --- | --- |
+| [Ashen Oath](https://github.com/alvarodnzdev/Ashen_Oath_game) | A 2D dark fantasy RPG with pixel art, exploration, and story-driven quests. Currently migrating to C#. | C# · .NET |
 | [JARVIS](https://github.com/alvarodnzdev/jarvis) | Personal AI assistant for automation and productivity. | Python · AI · APIs |
 | [Monday Automation](https://github.com/alvarodnzdev/monday-automation) | Workflow automation and API integrations. | Python · APIs |
-| [Software Engineer Journey](https://github.com/alvarodnzdev/software-engineer-journey-2026) | Study notes and practice in Computer Science fundamentals. | Python · Java · SQL |
+| [Corporate Breach](https://github.com/alvarodnzdev/corporate-breach) | A Doom-inspired shooter set in an office, fighting cyber viruses. | C · SDL2 |
 
 ## Currently Learning
 
-- C# and game development
+- C#, .NET, and game development
 - Algorithms and data structures
 - Computer Science through CS50
 - Linux fundamentals — Red Hat course (in progress)
+
+Study notes and practice: [Software Engineer Journey](https://github.com/alvarodnzdev/software-engineer-journey-2026).
+
+## Contact
+
+[alvarodnztech@gmail.com](mailto:alvarodnztech@gmail.com)
