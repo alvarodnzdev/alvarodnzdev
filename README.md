@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="pain.jpg" width="100%" alt="banner" />
+</p>
+
 # Álvaro Diniz
 
 **Software Engineer @ IBM · AI & Automation · Backend Development**
