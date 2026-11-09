@@ -2,51 +2,51 @@
 
 **Software Engineer @ IBM · AI & Automation · Backend Development**
 
-Software Engineer no **IBM**, com foco em backend, inteligência artificial e automação de processos. Desenvolvo agentes de IA e automações para um grande cliente do setor financeiro, integrando sistemas via APIs REST e GraphQL, e lidero iniciativas de adoção de Microsoft Copilot para uma equipe de aproximadamente 60 pessoas. Em paralelo, construo projetos pessoais em C#/.NET, Python e C, com ênfase em APIs, código limpo e fundamentos sólidos de algoritmos e estruturas de dados.
+Software Engineer, focused on backend development, artificial intelligence, and process automation. I build AI agents and automations for a large financial-sector client, integrate systems through REST and GraphQL APIs, and lead Microsoft Copilot adoption initiatives for a team of roughly 60 people. On the side, I build personal projects in C#/.NET, Python, and C, with an emphasis on APIs, clean code, and solid fundamentals in algorithms and data structures.
 
-Bacharelando em Ciência da Computação (FAM Centro Universitário).
+B.Sc. candidate in Computer Science at FAM Centro Universitário.
 
-## Experiência
+## Experience
 
 **Software Engineer · AI Ambassador @ IBM**
-- Desenvolvimento de agentes de IA e automações com Python, Power Automate e Copilot Studio.
-- Integração entre sistemas via APIs REST e GraphQL.
-- Liderança técnica das iniciativas de Microsoft Copilot, incluindo capacitação e mentoria de colegas.
+- Develop AI agents and automations using Python, Power Automate, and Copilot Studio.
+- Integrate systems through REST and GraphQL APIs.
+- Technical lead for Microsoft Copilot initiatives, including training and mentoring teammates.
 
 ## Tech Stack
 
-**Linguagens**
+**Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,python,java,c,js" alt="C#, Python, Java, C, and JavaScript" />
 </p>
 
-**Backend, Dados & Infraestrutura**
+**Backend, Data & Infrastructure**
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,fastapi,mysql,git,docker,linux" alt=".NET, FastAPI, MySQL, Git, Docker, and Linux" />
 </p>
 
-**Áreas de atuação:** APIs REST/GraphQL · Automação de processos · Agentes de IA · Integração de sistemas
+**Focus areas:** REST/GraphQL APIs · Process automation · AI agents · Systems integration
 
-## Projetos
+## Projects
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | Technologies |
 | --- | --- | --- |
-| [JARVIS](https://github.com/alvarodnzdev/jarvis) | Assistente pessoal com IA para automação e produtividade, com integração a APIs externas. | Python · APIs · IA |
-| [Monday Automation](https://github.com/alvarodnzdev/monday-automation) | Automação de workflows e integrações via API para ganho de eficiência operacional. | Python · APIs |
-| [Ashen Oath](https://github.com/alvarodnzdev/Ashen_Oath_game) | RPG 2D de fantasia sombria com exploração e missões narrativas, em migração para C#/.NET. | C# · .NET |
-| [Corporate Breach](https://github.com/alvarodnzdev/corporate-breach) | Shooter inspirado em Doom ambientado em um escritório, desenvolvido em baixo nível. | C · SDL2 |
+| [JARVIS](https://github.com/alvarodnzdev/jarvis) | Personal AI assistant for automation and productivity, integrated with external APIs. | Python · APIs · AI |
+| [Monday Automation](https://github.com/alvarodnzdev/monday-automation) | Workflow automation and API integrations that improve operational efficiency. | Python · APIs |
+| [Ashen Oath](https://github.com/alvarodnzdev/Ashen_Oath_game) | A 2D dark fantasy RPG with exploration and story-driven quests, currently migrating to C#/.NET. | C# · .NET |
+| [Corporate Breach](https://github.com/alvarodnzdev/corporate-breach) | A Doom-inspired shooter set in an office, built with low-level C. | C · SDL2 |
 
-## Foco Atual
+## Currently Focused On
 
-- Desenvolvimento em C# e .NET
-- Algoritmos e estruturas de dados
-- Fundamentos de Linux (Red Hat)
-- Ciência da Computação (CS50)
+- C# and .NET development
+- Algorithms and data structures
+- Linux fundamentals (Red Hat)
+- Computer Science foundations (CS50)
 
-Anotações e prática: [Software Engineer Journey](https://github.com/alvarodnzdev/software-engineer-journey-2026)
+Study notes and practice: [Software Engineer Journey](https://github.com/alvarodnzdev/software-engineer-journey-2026)
 
-## Contato
+## Contact
 
 [alvarodnztech@gmail.com](mailto:alvarodnztech@gmail.com)
