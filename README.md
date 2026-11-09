@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/zero.jpg" alt="Álvaro Diniz" width="180" />
+  <img src="zero.jpg" alt="Álvaro Diniz" width="180" />
 </p>
 
 <h1 align="center">Álvaro Diniz</h1>
