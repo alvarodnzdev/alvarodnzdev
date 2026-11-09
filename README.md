@@ -1,41 +1,52 @@
-# Hi, I'm Álvaro Diniz 👋
+# Álvaro Diniz
 
-**Computer Science student · AI Ambassador at IBM · Aspiring Software Engineer**
+**Software Engineer @ IBM · AI & Automation · Backend Development**
 
-I study Computer Science at **FAM** and work at **IBM**, building practical projects in software development, AI, and automation. I also develop games while strengthening my foundations in algorithms and data structures.
+Software Engineer no **IBM**, com foco em backend, inteligência artificial e automação de processos. Desenvolvo agentes de IA e automações para um grande cliente do setor financeiro, integrando sistemas via APIs REST e GraphQL, e lidero iniciativas de adoção de Microsoft Copilot para uma equipe de aproximadamente 60 pessoas. Em paralelo, construo projetos pessoais em C#/.NET, Python e C, com ênfase em APIs, código limpo e fundamentos sólidos de algoritmos e estruturas de dados.
+
+Bacharelando em Ciência da Computação (FAM Centro Universitário).
+
+## Experiência
+
+**Software Engineer · AI Ambassador @ IBM**
+- Desenvolvimento de agentes de IA e automações com Python, Power Automate e Copilot Studio.
+- Integração entre sistemas via APIs REST e GraphQL.
+- Liderança técnica das iniciativas de Microsoft Copilot, incluindo capacitação e mentoria de colegas.
 
 ## Tech Stack
 
-**Languages**
+**Linguagens**
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,python,java,c,js" alt="C#, Python, Java, C, and JavaScript" />
 </p>
 
-**Backend & Tools**
+**Backend, Dados & Infraestrutura**
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,fastapi,mysql,git,docker,linux" alt=".NET, FastAPI, MySQL, Git, Docker, and Linux" />
 </p>
 
-## Featured Projects
+**Áreas de atuação:** APIs REST/GraphQL · Automação de processos · Agentes de IA · Integração de sistemas
 
-| Project | Description | Technologies |
+## Projetos
+
+| Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
-| [Ashen Oath](https://github.com/alvarodnzdev/Ashen_Oath_game) | A 2D dark fantasy RPG with pixel art, exploration, and story-driven quests. Currently migrating to C#. | C# · .NET |
-| [JARVIS](https://github.com/alvarodnzdev/jarvis) | Personal AI assistant for automation and productivity. | Python · AI · APIs |
-| [Monday Automation](https://github.com/alvarodnzdev/monday-automation) | Workflow automation and API integrations. | Python · APIs |
-| [Corporate Breach](https://github.com/alvarodnzdev/corporate-breach) | A Doom-inspired shooter set in an office, fighting cyber viruses. | C · SDL2 |
+| [JARVIS](https://github.com/alvarodnzdev/jarvis) | Assistente pessoal com IA para automação e produtividade, com integração a APIs externas. | Python · APIs · IA |
+| [Monday Automation](https://github.com/alvarodnzdev/monday-automation) | Automação de workflows e integrações via API para ganho de eficiência operacional. | Python · APIs |
+| [Ashen Oath](https://github.com/alvarodnzdev/Ashen_Oath_game) | RPG 2D de fantasia sombria com exploração e missões narrativas, em migração para C#/.NET. | C# · .NET |
+| [Corporate Breach](https://github.com/alvarodnzdev/corporate-breach) | Shooter inspirado em Doom ambientado em um escritório, desenvolvido em baixo nível. | C · SDL2 |
 
-## Currently Learning
+## Foco Atual
 
-- C#, .NET, and game development
-- Algorithms and data structures
-- Computer Science through CS50
-- Linux fundamentals — Red Hat course (in progress)
+- Desenvolvimento em C# e .NET
+- Algoritmos e estruturas de dados
+- Fundamentos de Linux (Red Hat)
+- Ciência da Computação (CS50)
 
-Study notes and practice: [Software Engineer Journey](https://github.com/alvarodnzdev/software-engineer-journey-2026).
+Anotações e prática: [Software Engineer Journey](https://github.com/alvarodnzdev/software-engineer-journey-2026)
 
-## Contact
+## Contato
 
 [alvarodnztech@gmail.com](mailto:alvarodnztech@gmail.com)
