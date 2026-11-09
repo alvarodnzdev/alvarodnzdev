@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="pain.jpg" width="100%" alt="banner" />
+  <img src="assets/zero.jpg" alt="Álvaro Diniz" width="180" />
 </p>
 
-# Álvaro Diniz
+<h1 align="center">Álvaro Diniz</h1>
 
-**Software Engineer @ IBM · AI & Automation · Backend Development**
+<p align="center">
+  <b>Software Engineer @ IBM · AI & Automation · Backend Development</b>
+</p>
+
+Software Engineer, focused on backend development, artificial intelligence, and process automation. ...
 
 Software Engineer, focused on backend development, artificial intelligence, and process automation. I build AI agents and automations for a large financial-sector client, integrate systems through REST and GraphQL APIs, and lead Microsoft Copilot adoption initiatives for a team of roughly 60 people. On the side, I build personal projects in C#/.NET, Python, and C, with an emphasis on APIs, clean code, and solid fundamentals in algorithms and data structures.
 
